@@ -12,5 +12,9 @@ body{
 .principal{
     background-image: url(imagns/Background.png);
 }
+.container{
+    height: 100vh;
+}
+
 
 
